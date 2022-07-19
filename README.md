@@ -6,4 +6,4 @@
 The organization default repository containing the supported community health files as well as issue template, security etc.
 
 
-![This is an image](https://aprendiendoarduino.wordpress.com/2019/09/01/repositorios-publicos-en-github/)
+![This is an image](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/12/gitHub.png)
